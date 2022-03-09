@@ -1,0 +1,7 @@
+{
+"curses2022":[
+    {"nom":"UTMB", "localitat":"Chamonix","pais":"France","desnivell":10000,"kms":170,"preu":120,"localitzacio":[45.9231,6.8697],"dataHora":[2022,7,26,17,0]},
+    {"nom":"XXI ZEGAMA AIZKORRI MENDI MARATOIA", "localitat":"Zegama","pais":"Espanya","desnivell":5472,"kms":42.472,"preu":50,"localitzacio":[42.9756211,-2.2901755],"dataHora":[2022,4,29,9,0]},
+    {"nom":"Trail 100 Andorra - Ultra", "localitat":"Ordino","pais":"Andorra","desnivell":6900,"kms":105,"preu":165,"localitzacio":[42.555,1.533056],"dataHora":[2022,7,26,17,0]}
+]
+}     
